@@ -1,0 +1,27 @@
+body{
+	align: center;
+}
+.contact-card {
+	display: flex;
+	padding: 20px;
+	color: solid black;
+	background-color: #8406FB;
+	font-family: 'Open Sans', sans-serif;;
+	box-shadow: 10px 10px 25px -16px rgba(0, 0, 0, 0.75);
+	border-radius: 10px;
+	max-width: 600px;
+	max-height: 125px;
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+
+.contact-card p {
+	margin-left: 10px;
+	margin-top: 0;
+	align:center;
+}
+
+button {
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
